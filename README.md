@@ -69,3 +69,10 @@ Applicable to:
 * Policy analysis
 * ESG & sustainability
 * Humanitarian data analysis
+
+## Skills Demonstrated
+- Data cleaning and transformation (SQL)
+- Data integration across multiple sources
+- Statistical analysis (correlation)
+- Data visualisation
+- Analytical thinking and interpretation
